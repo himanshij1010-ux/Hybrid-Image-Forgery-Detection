@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Dataset and generated files
+dataset/
+processed_data/
+outputs/
+
+# Secrets and local settings
+.env
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Local archive
+archive.zip
